@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pelambin.github.io/sitemap.html.gz
+Sitemap: https://pelambin.github.io/app/sitemap.html.gz
+Sitemap: https://pelambin.github.io/assets/sitemap.html.gz
+Sitemap: https://pelambin.github.io/css/sitemap.html.gz
+Sitemap: https://pelambin.github.io/includes/sitemap.html.gz
+Sitemap: https://pelambin.github.io/item/sitemap.html.gz
+Sitemap: https://pelambin.github.io/src/sitemap.html.gz
